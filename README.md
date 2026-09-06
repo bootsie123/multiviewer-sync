@@ -1,2 +1,2 @@
-# multiviewer-sync
+# Multiviewer Sync
 Syncs multiple instances of MultiViewer together

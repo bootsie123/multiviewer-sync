@@ -1,0 +1,20 @@
+{
+  "name": "MultiViewer Sync",
+  "image": "mcr.microsoft.com/devcontainers/go",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "yzhang.markdown-all-in-one",
+        "golang.Go"
+      ],
+      "settings": {
+        "editor.tabSize": 2,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "always"
+        },
+        "go.formatTool": "goimports"
+      }
+    }
+  }
+}
